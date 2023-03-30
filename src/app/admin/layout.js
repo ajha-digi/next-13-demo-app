@@ -1,6 +1,5 @@
-"use client"
 export const metadata = {
-  title: 'Second route',
+  title: 'First route',
   description: 'Author Ajeet jha',
 }
 
